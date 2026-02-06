@@ -10,7 +10,7 @@ env:
   LOCATION: southeastasia
   TEMPLATE_FILE: infra/webapp.bicep
   SUBSCRIPTION_ID: da5865a2-0c39-4de2-9cbf-702a94836f18
-  WEBAPP_NAME: eshoponweb-vijay-58910913
+  WEBAPP_NAME: az400m03l08-sp1
 
 jobs:
   buildandtest:
